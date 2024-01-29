@@ -1,0 +1,6 @@
+framework module Pods_safespace_safespaceUITests {
+  umbrella header "Pods-safespace-safespaceUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
